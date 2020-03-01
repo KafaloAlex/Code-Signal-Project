@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\bin\Debug\netcoreapp3.1\adjacentElementsProduct.exe
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\bin\Debug\netcoreapp3.1\adjacentElementsProduct.deps.json
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\bin\Debug\netcoreapp3.1\adjacentElementsProduct.runtimeconfig.json
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\bin\Debug\netcoreapp3.1\adjacentElementsProduct.runtimeconfig.dev.json
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\bin\Debug\netcoreapp3.1\adjacentElementsProduct.dll
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\bin\Debug\netcoreapp3.1\adjacentElementsProduct.pdb
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\obj\Debug\netcoreapp3.1\adjacentElementsProduct.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\obj\Debug\netcoreapp3.1\adjacentElementsProduct.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\obj\Debug\netcoreapp3.1\adjacentElementsProduct.AssemblyInfo.cs
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\obj\Debug\netcoreapp3.1\adjacentElementsProduct.dll
+C:\Users\hp\Desktop\CodeSignal\adjacentElementsProduct\adjacentElementsProduct\obj\Debug\netcoreapp3.1\adjacentElementsProduct.pdb
