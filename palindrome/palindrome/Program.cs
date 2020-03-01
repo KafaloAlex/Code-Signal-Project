@@ -1,5 +1,5 @@
 ﻿//Un palindrome est un mot dont l'ordre reste le même de gauche à droite et inversement.
-//Le programme ramène *True* si le mot est palindrome ,et *False* dans le cas contraire.
+//Le programme ramène *True* si le mot est palindrome et *False* dans le cas contraire.
 using System;
 using System.Linq;
 
@@ -11,7 +11,7 @@ namespace palindrome
         {
             try
             {
-                Console.WriteLine("Entrez un mot");
+                Console.WriteLine("Entrez un mot :");
                 string chaine = Console.ReadLine();
 
                 checkPalindrome(chaine);
