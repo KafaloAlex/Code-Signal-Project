@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Source C#\century\century\bin\Debug\netcoreapp3.1\century.exe
+C:\Users\hp\Desktop\Source C#\century\century\bin\Debug\netcoreapp3.1\century.deps.json
+C:\Users\hp\Desktop\Source C#\century\century\bin\Debug\netcoreapp3.1\century.runtimeconfig.json
+C:\Users\hp\Desktop\Source C#\century\century\bin\Debug\netcoreapp3.1\century.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Source C#\century\century\bin\Debug\netcoreapp3.1\century.dll
+C:\Users\hp\Desktop\Source C#\century\century\bin\Debug\netcoreapp3.1\century.pdb
+C:\Users\hp\Desktop\Source C#\century\century\obj\Debug\netcoreapp3.1\century.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Source C#\century\century\obj\Debug\netcoreapp3.1\century.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Source C#\century\century\obj\Debug\netcoreapp3.1\century.AssemblyInfo.cs
+C:\Users\hp\Desktop\Source C#\century\century\obj\Debug\netcoreapp3.1\century.dll
+C:\Users\hp\Desktop\Source C#\century\century\obj\Debug\netcoreapp3.1\century.pdb

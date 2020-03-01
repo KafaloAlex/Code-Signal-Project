@@ -1,0 +1,22 @@
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.exe
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.deps.json
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.runtimeconfig.json
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.dll
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.pdb
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.AssemblyInfo.cs
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.dll
+C:\Users\hp\Desktop\Source C#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.pdb
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.exe
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.deps.json
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.runtimeconfig.json
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.runtimeconfig.dev.json
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.dll
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.pdb
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.AssemblyInfo.cs
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.dll
+C:\Users\hp\Desktop\CodeSignal\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.pdb
